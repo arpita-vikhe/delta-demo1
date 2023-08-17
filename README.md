@@ -1,2 +1,2 @@
 # delta-demo
-This is demo repository for delta classes
+This is demo repository for delta classes.
